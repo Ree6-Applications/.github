@@ -1,5 +1,5 @@
 ## Hey hey! <img alt="hand_wave" src="https://raw.githubusercontent.com/DxsSucuk/DxsSucuk/main/assets/wave.gif" height="25px" width="25px" />
-We are Ree6-Applications, and we work on open Source Projects related to and for Discord Bots.
+We are Ree6-Applications, a small group of volunteers that makes Software related to Discord!
 <img align="right" alt="ree6" title="This is Ree6-chan, our mascot!" width="250px" src="https://avatars.githubusercontent.com/u/94872631?s=400&u=a89d7f786c0eb6a90331fe27d615fe5641b1716d&v=4" >
 
 ### Share your opinion with us 🤝🏻
