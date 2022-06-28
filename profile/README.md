@@ -16,7 +16,7 @@ We are Ree6-Applications, and we work on open Source Projects related to and for
 
 ---
 
-<p align="center">Thank you for checking out our Projects ! We appreciate any kind of support ❤️</p>
+<p align="center">Thank you for checking out our Projects!<br>We appreciate any kind of support ❤️</p>
 <p align="center">
   <a href="https://ko-fi.com/T6T4AC652">
     <img alt="Donation" src="https://ko-fi.com/img/githubbutton_sm.svg">
