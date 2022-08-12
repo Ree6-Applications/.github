@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://support.ree6.de">
-    <img src="https://img.shields.io/discord/805149057004732457?label=&logo=discord&logoColor=ffffff&color=7289DA&labelColor=7289DA&style=for-the-badge" alt="Discord">
+    <img src="https://img.shields.io/discord/805149057004732457?logo=discord&style=for-the-badge" alt="Discord">
   </a>
 </p>
 
