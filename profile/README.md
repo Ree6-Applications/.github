@@ -8,7 +8,7 @@
   <br>
 </p>
 
-<p align="center">Non-profit Projects 👑</p>
+<p align="center">Non-profit Projects</p>
 
 <p align="center">
   <a href="https://support.ree6.de">
