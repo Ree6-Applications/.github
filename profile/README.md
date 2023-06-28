@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-    <a href="https://github.com/crunchy-labs">
+    <a href="https://github.com/Ree6-Applications">
         <img src="https://avatars.githubusercontent.com/u/94872631?s=400&u=a89d7f786c0eb6a90331fe27d615fe5641b1716d&v=4" alt="Logo" width=250px>
     </a>
   <br>
